@@ -1,0 +1,11 @@
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.exe
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.deps.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.runtimeconfig.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.runtimeconfig.dev.json
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.dll
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\bin\Debug\netcoreapp3.1\Laba1.pdb
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.AssemblyInfoInputs.cache
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.AssemblyInfo.cs
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.dll
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.pdb
+E:\3 Курс\2 семестр\Магомедов\Лабы\Laba1\Laba1\obj\Debug\netcoreapp3.1\Laba1.csprojAssemblyReference.cache
